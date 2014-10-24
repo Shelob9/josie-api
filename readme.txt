@@ -5,6 +5,7 @@ Requires at least: 4.0
 Tested up to: 4.0
 Stable tag: 0.1.0
 License: GPLv2+
+Donate Link: http://JoshPress.net
 
 Companion for the Josie REST API-powered starter app. Useful tools for any site using the WP REST API.
 
@@ -32,9 +33,12 @@ OR you can just install it with WordPress by going to Plugins >> Add New >> and 
 For more information about what this plugin does and how to modify its behavior, please see the READMEs for each of the libraries that make it up.
 
 == Screenshots ==
-1. screenshot-1
-Some tasty JSON.
+1. screenshot-1.png
 
 == Changelog ==
-==0.1.0==
+= 0.1.0 =
+Initial release.
+
+== Upgrade Notice ==
+= 0.1.0 +
 Initial release.

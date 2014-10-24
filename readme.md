@@ -12,7 +12,9 @@ It packages multiple libraries, most of which I wrote, to accomplish several thi
  4) [Adds cross-domain headers, and for the posts endpoint allows for page offsets and limits the number of posts_per_page.](https://github.com/Shelob9/jp-rest-access).
  
 ### Installation
-Before installing, be sure to run `composer update`, or this plugin will do nothing. 
+If  via this repo, be sure to run `composer update`, or this plugin will do nothing.
+
+You can [download a packaged version here](http://joshpress.net/jp-content/uploads/2014/10/josie-api-0.1.0.zip) that has all the dependencies included for you.
 
 ### Issues & Pull Requests
 Since this plugin's actual code is in multiple Composer libraries, pull requests and issues should be submitted to the individual GitHub repos foreach.
