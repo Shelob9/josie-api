@@ -4,8 +4,11 @@ This is a companion plugin for my WordPress REST API (WP-API) powered applicatio
 It packages multiple libraries, most of which I wrote, to accomplish several things:
  
  1) [Provides a soft-expiring, server-side cache for requests to the REST API.](https://github.com/shelob9/jp-rest-cache).
+ 
  2) [Adds routes and endpoints for making tax-queries.](https://github.com/Shelob9/jp-tax-query).
+ 
  3) [Adds routes and enpoints for getting menus & menu items](https://github.com/Shelob9/jp-menu-route).
+ 
  4) [Adds cross-domain headers, and for the posts endpoint allows for page offsets and limits the number of posts_per_page.](https://github.com/Shelob9/jp-rest-access).
  
 ### Installation
