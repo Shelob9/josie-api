@@ -3,7 +3,7 @@ Contributors: Shelob9
 Tags: rest-api, json, wp-api, doge, cache
 Requires at least: 4.0
 Tested up to: 4.0
-Stable tag: 0.1.0
+Stable tag: 0.1.1
 License: GPLv2+
 Donate Link: http://JoshPress.net
 
@@ -38,7 +38,12 @@ For more information about what this plugin does and how to modify its behavior,
 == Changelog ==
 = 0.1.0 =
 Initial release.
+= 0.1.1 =
+Fix offset.
+Support for multiple CORS domains
 
 == Upgrade Notice ==
-= 0.1.0 +
+= 0.1.0 =
 Initial release.
+= 0.1.1 =
+Bug fixes
