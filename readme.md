@@ -14,7 +14,7 @@ It packages multiple libraries, most of which I wrote, to accomplish several thi
 ### Installation
 If  via this repo, be sure to run `composer update`, or this plugin will do nothing.
 
-You can [download a packaged version here]http://joshpress.net/jp-content/uploads/2014/10/josie-api-0.1.1.zip) that has all the dependencies included for you.
+You can [download a packaged version here]http://joshpress.net/jp-content/uploads/2014/10/josie-api-0.1.2.zip) that has all the dependencies included for you.
 
 ### Issues & Pull Requests
 Since this plugin's actual code is in multiple Composer libraries, pull requests and issues should be submitted to the individual GitHub repos foreach.
