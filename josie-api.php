@@ -3,7 +3,7 @@
 Plugin Name: Josie API
 Plugin URI: https://github.com/shelob9/josie-api
 Description: Companion for the Josie REST API-powered starter app. Useful tools for any site using the WP REST API.
-Version: 0.1.1
+Version: 0.1.2
 Author: Josh Pollock
 Author URI: http://JoshPress.net/
 Text Domain: josie-api
