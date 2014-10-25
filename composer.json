@@ -22,6 +22,7 @@
     "support": {
         "issues": "https://github.com/Shelob9/josie-api/issues",
         "source": "https://github.com/Shelob9/josie-api"
-    }
+    },
+    "minimum-stability" : "dev"
 
 }
