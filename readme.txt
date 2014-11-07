@@ -3,7 +3,7 @@ Contributors: Shelob9
 Tags: rest-api, json, wp-api, doge, cache
 Requires at least: 4.0
 Tested up to: 4.0
-Stable tag: 0.1.2
+Stable tag: 0.1.3
 License: GPLv2+
 Donate Link: http://JoshPress.net
 
@@ -48,9 +48,14 @@ Fix offset.
 Support for multiple CORS domains
 = 0.1.2 =
 composer.json updates for caching.
+= 0.1.3 =
+Activation hook to set option defaults.
+Streamline tax query endpoint.
 
 == Upgrade Notice ==
 = 0.1.0 =
 Initial release.
 = 0.1.1-2 =
 Bug fixes
+= 0.1.3 =
+Set option defaults on activation. Better tax query endpoint.
