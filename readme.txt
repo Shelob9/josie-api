@@ -1,4 +1,4 @@
-=== Josie WP ===
+=== Josie API ===
 Contributors: Shelob9
 Tags: rest-api, json, wp-api, doge, cache
 Requires at least: 4.0
