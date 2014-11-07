@@ -47,3 +47,15 @@ if ( ! defined( 'JP_API_ROUTE' ) ) {
 	define( 'JP_API_ROUTE', 'josie-api' );
 }
 
+/**
+ * Activation hook.
+ *
+ * @since 0.1.3
+ */
+register_activation_hook( __FILE__, 'josie_api_activate' );
+function josie_api_activate() {
+	if ( function_exists( 'jp_rest_access_set_defaults' ) ){
+		jp_rest_access_set_defaults( 'josie_api_' );
+	}
+
+}
